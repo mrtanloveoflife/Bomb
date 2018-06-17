@@ -152,6 +152,8 @@ namespace MyBomb
                     Score = 0; TotalScore = 0; Heart = 3; Stage = 0;
                     gameData = new GameData(Stage);
                     timer1.Start();
+                    timer2.Start();
+                    sound.PlaySound();
                 }
                 else
                 {
@@ -170,6 +172,7 @@ namespace MyBomb
             {
                 timer1.Stop();
                 timer2.Stop();
+                sound.StopSound();
                 CheckRank();
                 HighScore highScore = new HighScore(HighScore,true);
                 highScore.ShowDialog();
@@ -180,6 +183,8 @@ namespace MyBomb
                     Score = 0; TotalScore = 0; Heart = 3; Stage = 0;
                     gameData = new GameData(Stage);
                     timer1.Start();
+                    timer2.Start();
+                    sound.PlaySound();
                 }
                 else
                 {
@@ -191,6 +196,10 @@ namespace MyBomb
             {
                 Score = 0; Heart +=1; Stage = Stage + 1 % 2;
                 gameData = new GameData(Stage);
+                sound.StopSound();
+                sound.PlaySound();
+                S_Label.Text = "00";
+                M_Label.Text = "3";
             }
 
             gameData.CheckImpact(ref Score, ref TotalScore, ref Heart);
