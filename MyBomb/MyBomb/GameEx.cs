@@ -194,7 +194,7 @@ namespace MyBomb
             }
             if (gameData.CheckWin())
             {
-                Score = 0; Heart +=1; Stage = Stage + 1 % 2;
+                Score = 0; Heart +=1; Stage = (Stage + 1) % 2;
                 gameData = new GameData(Stage);
                 sound.StopSound();
                 sound.PlaySound();
