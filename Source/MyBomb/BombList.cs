@@ -51,13 +51,13 @@ namespace MyBomb
             switch (Direction)
             {
                 case 0:
-                    return p.Y - 60 < 0;
+                    return p.Y <= 0;
                 case 1:
-                    return p.Y + 60 * 2 >= Height;
+                    return p.Y + 60 >= Height;
                 case 2:
-                    return p.X - 60 < 0;
+                    return p.X <= 0;
                 case 3:
-                    return p.X + 60 * 2 >= Width;
+                    return p.X + 60 >= Width;
             }
             return false;
         }

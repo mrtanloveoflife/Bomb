@@ -128,3 +128,18 @@ E:\Nam 2\HKII\LTTQ\GitHub\Bomb\MyBomb\MyBomb\obj\Debug\MyBomb.csproj.GenerateRes
 E:\Nam 2\HKII\LTTQ\GitHub\Bomb\MyBomb\MyBomb\obj\Debug\MyBomb.csproj.CoreCompileInputs.cache
 E:\Nam 2\HKII\LTTQ\GitHub\Bomb\MyBomb\MyBomb\obj\Debug\MyBomb.exe
 E:\Nam 2\HKII\LTTQ\GitHub\Bomb\MyBomb\MyBomb\obj\Debug\MyBomb.pdb
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\bin\Debug\MyBomb.exe.config
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\bin\Debug\MyBomb.exe
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\bin\Debug\MyBomb.pdb
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.csprojResolveAssemblyReference.cache
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\Interop.WMPLib.dll
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.csproj.ResolveComReference.cache
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.GameUI_Form.resources
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.GameEx.resources
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.HighScore.resources
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.Message.resources
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.Properties.Resources.resources
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.csproj.GenerateResource.cache
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.csproj.CoreCompileInputs.cache
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.exe
+C:\Users\TrongTin16\Desktop\git\Bomb\Bomb\Source\MyBomb\obj\Debug\MyBomb.pdb
